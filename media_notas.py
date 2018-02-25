@@ -9,4 +9,4 @@ for x in range(1, len(notas)):
 
 media = soma_notas/len(notas)
 
-print("A media das notas é igual a {0}" .format(media))
+print("A media das notas é igual a %.2f" %media)
